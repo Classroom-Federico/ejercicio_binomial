@@ -1,2 +1,2 @@
-# ejercicio_binomial
-Ejercicio distribución binomial para clase Métodos Estadísticos en las Ciencias Computacionales
+# Ejercicio uso de la distribución binomial
+Este repositorio contiene ejemplos sobre el uso de la distribución binomial en R.
