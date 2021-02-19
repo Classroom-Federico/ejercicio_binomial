@@ -11,7 +11,7 @@ El taller está basado en el video TED-Ed [Why do airlines sell too many tickets
 
 ![Probabilidad pasajeros](binomial_pasajeros.png)
 
-El taller en demostrar que 198 es la sobreventa ideal de tickets con un gráfico que muestre:
+El taller consiste en demostrar que 198 es la sobreventa ideal de tickets con un gráfico que muestre:
 * asientos vendidos (eje X) vs revenue (eje Y),
 * resaltar el pico de ganancia (revenue) en 198 con una linea vertical en 198 y una horizontal en máximo del gráfico.
 
